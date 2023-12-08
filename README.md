@@ -1,4 +1,6 @@
 ### Hi there 👋
+### Amaurí Geraldes here :)
+I am a European citizen, currently living in São Paulo, Brazil and my goals at the moment are to live in Portugal and transition my professional career to the area of analysis and systems development such as Data Science & Analytics, with the constant desire to learn new technologies, solving problems and helping to improve people's lives, using my knowledge, experiences and skills.
 
 <!--
 **amaurigeraldes/amaurigeraldes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
