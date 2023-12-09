@@ -16,6 +16,7 @@ Passionate about **discovering new places, cultures and people**
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;  
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp; 
   &nbsp;&nbsp;<img width="50" height="50" src="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/13592302/765612_244143.png" />&nbsp;&nbsp;
+ &nbsp;&nbsp;<img width="50" height="50" src="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/13592302/482691_385103.png" />&nbsp;&nbsp;
 </div>
 <br>
 
