@@ -39,14 +39,11 @@ And in the web tools:
 ##
 
 ### You can also find me at:
-&nbsp;<a href="https://www.linkedin.com/in/amauri-geraldes">
-   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+&nbsp;<a href="https://www.linkedin.com/in/amauri-geraldes"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
-&nbsp;<a href="https://www.youtube.com/channel/UCmAharFqHby1xZbZrnrhpvQ">
-   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+&nbsp;<a href="https://www.youtube.com/channel/UCmAharFqHby1xZbZrnrhpvQ"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 </a>&nbsp;
-&nbsp;<a href="https://medium.com/@amaurimgeraldes">
-   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+&nbsp;<a href="https://medium.com/@amaurimgeraldes"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>&nbsp;
 
 
