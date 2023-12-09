@@ -2,6 +2,8 @@
 ### Amaurí Geraldes here :)
 I am a European citizen, currently living in São Paulo, Brazil and my goals at the moment are to live in Portugal and transition my professional career to the area of analysis and systems development such as Data Science & Analytics, with the constant desire to learn new technologies, solving problems and helping to improve people's lives, using my knowledge, experiences and skills.
 
+##
+
 - ![Logistica Icon](https://github.com/amaurigeraldes/amaurigeraldes/assets/110943251/a81b009b-63c7-4756-bfc9-4af19341441f)
  Extensive experience as manager of **Logistics, Production Planning and Supply Chain** areas and teams
 - ![Aviao Icon](https://github.com/amaurigeraldes/amaurigeraldes/assets/110943251/e1f78c38-cf1f-406e-bb6d-f648c57106c2)
@@ -47,6 +49,9 @@ And in the web tools:
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>
 
+##
+
+### Some posts of mine that you might like:
 
 
 
