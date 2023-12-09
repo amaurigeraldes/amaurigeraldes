@@ -15,7 +15,7 @@ Passionate about **discovering new places, cultures and people**
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;  
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp; 
-  &nbsp;&nbsp;<img width="50" height="50" src="https://projetisolutions.com.br/arquivos/fotos/powerbi-2-1611094207.png" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="50" height="50" src="https://iconepowerbi.mystrikingly.com/" />&nbsp;&nbsp;
 </div>
 <br>
 
