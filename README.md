@@ -33,10 +33,10 @@ And in the web tools::
 </div>
 
 ### You can also find me at:
-<a href="https://linkedin.com/in/lucas-leal-santos">
+<a href="https://www.linkedin.com/in/amauri-geraldes/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.youtube.com/@HashtagProgramacao">
+<a href="https://www.youtube.com/channel/UCmAharFqHby1xZbZrnrhpvQ">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
 
