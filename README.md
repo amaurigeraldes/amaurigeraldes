@@ -41,6 +41,10 @@ And in the web tools::
 <a href="https://www.youtube.com/channel/UCmAharFqHby1xZbZrnrhpvQ">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
+<a href="https://medium.com/@amaurimgeraldes">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</a>
+
 
 
 
