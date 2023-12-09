@@ -27,12 +27,14 @@ And I also have knowledge of the following languages:
 <br>
 
 - ![Tela Icon](https://github.com/amaurigeraldes/amaurigeraldes/assets/110943251/df5cded5-1496-4406-b107-aaffeb00e65a)
-And in the web tools::
+And in the web tools:
 <div style="display: inline">
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
 </div>
+
+##
 
 ### You can also find me at:
 <a href="https://www.linkedin.com/in/amauri-geraldes/">
