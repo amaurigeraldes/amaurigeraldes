@@ -7,10 +7,10 @@ I am a European citizen, currently living in São Paulo, Brazil and my goals at 
 - ![Logistica Icon](https://github.com/amaurigeraldes/amaurigeraldes/assets/110943251/a81b009b-63c7-4756-bfc9-4af19341441f)
  Extensive experience as manager of **Logistics, Production Planning and Supply Chain** areas and teams
 - ![Aviao Icon](https://github.com/amaurigeraldes/amaurigeraldes/assets/110943251/e1f78c38-cf1f-406e-bb6d-f648c57106c2)
-Passionate about **discovering new places, cultures and people**
+ Passionate about **discovering new places, cultures and people**
 <br>
 
-- 🖥️ At the moment I am totally focused on **Data Science & Analytics** using the tools::
+- 🖥️ At the moment I am totally focused on **Data Science & Analytics** using the tools:
 <div style="display: inline">
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;  
